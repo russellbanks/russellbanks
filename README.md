@@ -7,7 +7,7 @@ My name is Russell and I like to code Android apps in Kotlin, both in views and 
 - 🤖 [Notify](https://github.com/BanDev/Notify), a Discord bot written in TypeScript to send notifications when people join voice channels.
 
 ## My stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=russellbanks&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Russell's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=russellbanks&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellbanks&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=russellbanks&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
