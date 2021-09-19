@@ -16,7 +16,7 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 
 ## 🔭 I'm currently working on
 
-- [Buddha Quotes Compose](https://github.com/BanDev/Buddha-Quotes-Compose)
+- [BubbleSorts](https://github.com/russellbanks/BubbleSorts)
 
 ## 🌱 I'm currently learning
 
