@@ -16,12 +16,12 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 
 ## 🔭 I'm currently working on
 
-- [BubbleSorts](https://github.com/russellbanks/BubbleSorts)
+- [Notify](https://github.com/BanDev/Notify)
+- Personal projects in [React.js](https://reactjs.org/) :)
 
 ## 🌱 I'm currently learning
 
-- 🖥️ Typescript
-- 🖥️ C#
+- 🖥️ [React.js](https://reactjs.org/)
 
 ## 💼 Technical Skills
 
@@ -36,4 +36,4 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 
 ## My stats
 [![Russell's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=russellbanks&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=russellbanks&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellbanks&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
