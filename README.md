@@ -16,12 +16,11 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 
 ## 🔭 I'm currently working on
 
-- [Notify](https://github.com/BanDev/Notify)
-- Personal projects in [React.js](https://reactjs.org/) :)
+- [Advent of Code 2021](https://adventofcode.com/), Written in Kotlin - [Repo](https://github.com/russellbanks/advent-of-code-kotlin)
 
 ## 🌱 I'm currently learning
 
-- 🖥️ [React.js](https://reactjs.org/)
+- 🖥️ [Jetpack Compose for Web](https://compose-web.ui.pages.jetbrains.team/)
 
 ## 💼 Technical Skills
 
