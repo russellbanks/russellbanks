@@ -20,7 +20,7 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 
 ## 🌱 I'm currently learning
 
-- 🖥️ [Jetpack Compose for Web](https://compose-web.ui.pages.jetbrains.team/)
+- 🖥️ [Jetbrains Compose for Desktop](https://github.com/JetBrains/compose-jb)
 
 ## 💼 Technical Skills
 
