@@ -11,7 +11,7 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 ## My projects
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an open source Buddha Quotes app made in Kotlin.
 - 📱 [Buddha Quotes Compose](https://github.com/BanDev/Buddha-Quotes-Compose), Buddha Quotes rewritten in Jetpack Compose.
-- 💥 [Xplosion](https://github.com/BanDev/Xplosion), a small drawable explosion library for Android rewritten in Kotlin, forked from [SmallBang](https://github.com/hanks-zyh/SmallBang)
+- #️⃣ [HashHash](https://github.com/russellbanks/HashHash), a multiplatform GUI for hashing, written in Compose for Desktop
 - 🤖 [Notify](https://github.com/BanDev/Notify), a Discord bot written in Kotlin to send notifications when people join voice channels.
 
 ## 🔭 I'm currently working on
