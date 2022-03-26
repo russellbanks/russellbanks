@@ -16,11 +16,11 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 
 ## 🔭 I'm currently working on
 
-- [Notify](https://github.com/BanDev/Notify) (having recently been rewritten in Kotlin)
+- [Notify](https://github.com/BanDev/Notify)
 
 ## 🌱 I'm currently learning
 
-- 🖥️ [JetBrains Compose for Desktop & Web](https://github.com/JetBrains/compose-jb)
+- 🖥️ [NextJS](https://nextjs.org/) with [Mantine](https://mantine.dev) and [TypeScript](https://www.typescriptlang.org/)
 
 ## 💼 Technical Skills
 
