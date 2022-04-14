@@ -11,12 +11,13 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 ## My projects
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an open source Buddha Quotes app made in Kotlin.
 - 📱 [Buddha Quotes Compose](https://github.com/BanDev/Buddha-Quotes-Compose), Buddha Quotes rewritten in Jetpack Compose.
-- #️⃣ [HashHash](https://github.com/russellbanks/HashHash), a multiplatform GUI for hashing, written in Compose for Desktop
-- 🤖 [Notify](https://github.com/BanDev/Notify), a Discord bot written in Kotlin to send notifications when people join voice channels.
+- #️⃣ [HashHash](https://github.com/russellbanks/HashHash), a multiplatform GUI for hashing, written in Compose for Desktop.
+- 🔔 [Notify](https://github.com/BanDev/Notify), a Discord bot written in Kotlin to send notifications when people join voice channels.
+- 🕑 [TimeSince](https://github.com/russellbanks/TimeSince) - A Kotlin Native program to show the time since a date, using Kotlin LibUI.
 
 ## 🔭 I'm currently working on
 
-- [Notify](https://github.com/BanDev/Notify)
+- 🔔 [Notify](https://github.com/BanDev/Notify)
 
 ## 🌱 I'm currently learning
 
