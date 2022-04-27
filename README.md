@@ -6,7 +6,7 @@ Hey, I'm <a href="https://russell.bandev.uk" target="_blank" rel="noreferrer">Ru
 I'm a Full-time A-Level Computer Science Student 📚!
 </h2>
 
-I love open source and creating Android apps in Kotlin, both in views and in [Jetpack Compose](https://developer.android.com/jetpack/compose). Most of my work falls under [@BanDev](https://github.com/BanDev) ❤️
+I love open source and creating all types of software in Kotlin, from Multiplatform GUIs to Android apps to Discord bots. Some of my work falls under [@BanDev](https://github.com/BanDev) ❤️
 
 ## My projects
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an open source Buddha Quotes app made in Kotlin.
@@ -17,7 +17,7 @@ I love open source and creating Android apps in Kotlin, both in views and in [Je
 
 ## 🔭 I'm currently working on
 
-- 🔔 [Notify](https://github.com/BanDev/Notify)
+- #️⃣ [HashHash](https://github.com/russellbanks/HashHash)
 
 ## 🌱 I'm currently learning
 
