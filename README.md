@@ -1,9 +1,5 @@
-<h3 align="center">
-Hey, I'm <a href="https://russell.bandev.uk" target="_blank" rel="noreferrer">Russell</a> 😄
-</h3>
-
 <h2 align="center">
-I'm a Full-time A-Level Computer Science Student 📚!
+Hey, I'm <a href="https://russell.bandev.uk" target="_blank" rel="noreferrer">Russell</a> 😄
 </h2>
 
 I love open source and creating all types of software in Kotlin, from Multiplatform GUIs to Android apps to Discord bots. Some of my work falls under [@BanDev](https://github.com/BanDev) ❤️
