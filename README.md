@@ -18,7 +18,7 @@ I love open source and creating all types of software in Kotlin, from Multiplatf
 
 ## 🌱 I'm currently learning
 
-- 🖥️ [Powershell](https://github.com/powershell/powershell)
+- 🖥️ [PowerShell](https://github.com/powershell/powershell)
 
 ## 💼 Technical Skills
 
