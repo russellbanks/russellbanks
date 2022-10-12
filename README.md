@@ -26,5 +26,5 @@ I love open source and creating all types of software in Kotlin, from Multiplatf
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ## My stats
-[![Russell's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=russellbanks&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellbanks&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Russell's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=russellbanks&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellbanks&layout=compact&langs_count=10&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
