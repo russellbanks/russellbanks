@@ -7,6 +7,7 @@ I love open source and creating all types of software. I am most fluent in [<img
 I am a moderator for the [Windows Package Manager Community Repository](https://github.com/microsoft/winget-pkgs). Some of my historic work falls under [@BanDev](https://github.com/BanDev) ❤️
 
 ## My projects
+- 👨‍💻 [Komac](https://github.com/russellbanks/Komac), a manifest creatonr for winget-pkgs
 - #️⃣ [HashHash](https://github.com/russellbanks/HashHash), a multiplatform GUI for hashing, written in Compose for Desktop.
 - 🔔 [Notify](https://github.com/BanDev/Notify), a Discord bot written in Kotlin to send notifications when people join voice channels.
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an open source Buddha Quotes app made in Kotlin.
@@ -19,15 +20,11 @@ I am a moderator for the [Windows Package Manager Community Repository](https://
 - #️⃣ [HashHash](https://github.com/russellbanks/HashHash)
 - 👨‍💻 [Komac](https://github.com/russellbanks/Komac)
 
-## 🌱 I'm currently learning
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ## 💼 Technical Skills
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
 ## My stats
 [![Russell's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=russellbanks&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
