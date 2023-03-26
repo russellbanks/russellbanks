@@ -7,7 +7,7 @@ I love open source and creating all types of software. I am most fluent in [<img
 I am a moderator for the [Windows Package Manager Community Repository](https://github.com/microsoft/winget-pkgs). Some of my historic work falls under [@BanDev](https://github.com/BanDev) ❤️
 
 ## My projects
-- 👨‍💻 [Komac](https://github.com/russellbanks/Komac), a manifest creatonr for winget-pkgs
+- 👨‍💻 [Komac](https://github.com/russellbanks/Komac), a manifest creator for winget-pkgs
 - #️⃣ [HashHash](https://github.com/russellbanks/HashHash), a multiplatform GUI for hashing, written in Compose for Desktop.
 - 🔔 [Notify](https://github.com/BanDev/Notify), a Discord bot written in Kotlin to send notifications when people join voice channels.
 - 📱 [Buddha Quotes](https://github.com/bandev/buddha-quotes), an open source Buddha Quotes app made in Kotlin.
