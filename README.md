@@ -2,7 +2,7 @@
 Hey, I'm Russell 😄
 </h2>
 
-I love open source and creating all types of software. I am most fluent in [<img src="https://user-images.githubusercontent.com/74878137/205283993-c384ce1d-e252-4ba7-822d-1b904c969bad.svg" alt="Kotlin Full Color Logo Mark RGB" height="11"/> Kotlin](https://kotlinlang.org/), but I work in many types of languages and enjoy learning new ones.
+I love open source and creating all types of software. I am most fluent in [<img src="https://user-images.githubusercontent.com/74878137/205283993-c384ce1d-e252-4ba7-822d-1b904c969bad.svg" alt="Kotlin Full Color Logo Mark RGB" height="11"/> Kotlin](https://kotlinlang.org) and [Rust](https://www.rust-lang.org), but I work in many types of languages and enjoy learning new ones.
 
 I am a moderator for the [Windows Package Manager Community Repository](https://github.com/microsoft/winget-pkgs). Some of my historic work falls under [@BanDev](https://github.com/BanDev) ❤️
 
