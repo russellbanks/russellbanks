@@ -30,8 +30,8 @@ I am a moderator for the [Windows Package Manager Community Repository](https://
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 
 ## My stats
-[![Russell's GitHub stats](https://github-readme-stats.vercel.app/api?username=russellbanks&show_icons=true&include_all_commits=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russellbanks&layout=compact&langs_count=10&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+[![Russell's GitHub stats](https://github-stats-extended.vercel.app/api?username=russellbanks&show_icons=true&include_all_commits=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=russellbanks&layout=compact&langs_count=10&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/stats-organization/github-stats-extended)
 
 [//]: # (Markdown language badges are from https://github.com/Ileriayo/markdown-badges)
-[//]: # (ReadMe stats are from https://github.com/anuraghazra/github-readme-stats)
+[//]: # (ReadMe stats are from https://github.com/stats-organization/github-stats-extended)
